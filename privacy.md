@@ -142,8 +142,8 @@ control on your device. You can:
 - **Delete**: each screen has a Clear / Delete All control; uninstalling
   the Keyboard wipes everything
 
-For any question, contact the developer at the address in the Play
-Store listing.
+For any question, contact the developer at
+[velocikeys@vivaxlogic.se](mailto:velocikeys@vivaxlogic.se).
 
 ---
 
