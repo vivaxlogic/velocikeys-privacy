@@ -19,7 +19,7 @@ privacy policy and the data-safety form mapping.
 ## Contact
 
 For privacy-specific questions, email
-[juliospanks@gmail.com](mailto:juliospanks@gmail.com).
+[velocikeys@vivaxlogic.se](mailto:velocikeys@vivaxlogic.se).
 
 For bug reports or feature requests, file an issue at
 [github.com/vivaxlogic/velocikeys-privacy/issues](https://github.com/vivaxlogic/velocikeys-privacy/issues).
